@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    
+}
+
+.navbar{
+    margin-bottom: 40px;
+}
+
+.tag{
+    margin-bottom: 0.25rem;
+}
+
+.card{
+    margin-bottom: 1rem;   
+}
